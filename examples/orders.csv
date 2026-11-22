@@ -1,0 +1,123 @@
+order_id,customer,amount,status,note,ordered_on
+1001,Bob,,paid,,2026-11-10
+1002,Cara,534.89,void,,2026-10-15
+1003,Elena,,paid,,2026-11-07
+1004,Alice,567.14,void,gift wrap,2026-10-15
+1005,Farid,643.73,paid,,2026-10-15
+1006,Elena,107.49,paid,,2026-11-14
+1007,Elena,674.95,void,fast ship,2026-10-06
+1008,Farid,777.95,pending,,2026-10-03
+1009,Aya,487.19,paid,refund issued,2026-11-05
+1010,Bob,166.88,paid,,2026-10-13
+1011,Bob,351.80,paid,,2026-10-15
+1012,林小满,198.92,paid,refund issued,2026-10-24
+1013,Cara,180.74,pending,gift wrap,2026-11-10
+1014,Dmitri,671.14,paid,,2026-10-18
+1015,林小满,34.27,void,,2026-10-03
+1016,Dmitri,304.42,pending,,2026-10-21
+1017,Cara,440.32,paid,,2026-10-17
+1018,Elena,307.51,paid,,2026-11-07
+1019,Farid,18.64,paid,,2026-11-02
+1020,Cara,326.17,paid,gift wrap,2026-11-10
+1021,Farid,776.28,paid,,2026-10-25
+1022,Aya,258.94,paid,gift wrap,2026-10-08
+1023,Farid,,paid,refund issued,2026-10-11
+1024,Bob,224.72,void,refund issued,2026-10-12
+1025,Cara,112.47,void,,2026-10-13
+1026,林小满,71.73,paid,fast ship,2026-11-08
+1027,Alice,445.23,paid,,2026-10-16
+1028,Bob,416.82,paid,,2026-11-01
+1029,Farid,115.40,void,refund issued,2026-11-12
+1030,Dmitri,599.32,paid,,2026-10-28
+1031,Elena,512.90,pending,refund issued,2026-10-20
+1032,Bob,32.50,paid,refund issued,2026-10-29
+1033,Dmitri,-14.10,paid,,2026-11-05
+1034,Alice,38.10,paid,fast ship,2026-10-05
+1035,Farid,88.50,void,refund issued,2026-11-12
+1036,Dmitri,642.15,paid,,2026-10-31
+1037,Elena,317.10,paid,,2026-10-07
+1038,Bob,577.14,paid,,2026-11-11
+1039,Dmitri,94.95,paid,fast ship,2026-10-13
+1040,Dmitri,41.82,void,,2026-10-30
+1041,Alice,739.62,paid,,2026-10-04
+1042,Farid,689.01,paid,,2026-10-27
+1043,Alice,197.47,pending,fast ship,2026-10-25,EXTRA FIELD
+1044,Farid,223.30,paid,refund issued,2026-10-28
+1045,Alice,26.88,void,gift wrap,2026-11-04
+1046,Cara,396.42,paid,,2026-11-02
+1047,Bob,172.87,paid,refund issued,2026-11-08
+1048,Alice,323.76,void,refund issued,2026-10-16
+1049,林小满,147.49,paid,,2026-11-03
+1050,Elena,509.31,pending,fast ship,2026-10-17
+1051,Alice,798.73,paid,,2026-10-05
+1052,Dmitri,88.61,paid,,2026-11-04
+1053,林小满,339.31,void,,2026-10-16
+1054,Alice,434.77,paid,,2026-10-20
+1055,Bob,588.78,paid,fast ship,2026-10-17
+1056,Dmitri,146.95,paid,refund issued,2026-10-19
+1057,Aya,673.81,paid,,2026-11-01
+1058,Aya,253.52,paid,,2026-10-28
+1059,Cara,432.38,pending,refund issued,2026-10-17
+1060,Bob,704.15,paid,refund issued,2026-10-01
+1061,林小满,101.44,paid,,2026-10-03
+1062,林小满,632.82,paid,fast ship,2026-10-20
+1063,Dmitri,270.02,void,gift wrap,2026-10-14
+1064,Cara,174.12,paid,,2026-11-09
+1065,Alice,738.08,pending,,2026-10-27
+1066,Aya,555.05,pending,,2026-10-16
+1067,Dmitri,733.13,paid,fast ship,2026-10-31
+1068,Dmitri,,paid,gift wrap,2026-10-15
+1069,Aya,772.85,paid,fast ship,2026-10-22
+1070,Elena,671.80,paid,,2026-11-11
+1071,Aya,769.28,paid,,2026-10-08
+1072,Elena,624.87,pending,refund issued,2026-10-07
+1073,Bob,452.80,paid,,2026-11-02
+1074,Elena,,void,,2026-11-15
+1075,Dmitri,37.38,paid,refund issued,2026-11-12
+1076,Bob,226.26,paid,,2026-10-21
+1077,林小满,222.44,paid,,2026-10-27
+1078,Elena,720.30,void,refund issued,2026-10-27
+1079,Elena,-19.67,paid,,2026-10-20
+1080,林小满,342.57,paid,refund issued,2026-10-28
+1081,Cara,212.70,void,fast ship,2026-10-31
+1082,Dmitri,164.21,paid,,2026-10-06
+1083,Alice,369.61,paid,gift wrap,2026-10-02
+1084,Dmitri,294.86,pending,,2026-10-27
+1085,Alice,685.56,paid,gift wrap,2026-10-10
+1086,Cara,550.65,pending,,2026-10-15
+1087,Dmitri,79.51,paid,gift wrap,2026-11-05
+1088,林小满,710.97,void,,2026-11-12
+1089,Elena,429.25,paid,,2026-11-02
+1090,Farid,182.74,paid,refund issued,2026-10-31
+1091,Dmitri,43.54,paid,,2026-11-01
+1092,林小满,422.92,paid,,2026-10-18
+1093,Elena,559.26,paid,gift wrap,2026-10-15
+1094,林小满,320.93,paid,gift wrap,2026-10-27
+1095,Alice,607.79,pending,gift wrap,2026-10-25
+1096,林小满,299.79,pending,refund issued,2026-10-01
+1097,Dmitri,203.81,pending,,2026-11-04
+1098,林小满,634.48,paid,gift wrap,2026-10-25
+1099,Alice,465.35,paid,,2026-10-09
+1100,Elena,358.59,paid,fast ship,2026-11-11
+1101,林小满,248.01,pending,fast ship,2026-10-25
+1102,Aya,365.65,void,,2026-10-27
+1103,Dmitri,620.61,paid,,2026-10-23
+1104,Dmitri,489.50,paid,,2026-10-16
+1105,Bob,158.73,paid,fast ship,2026-10-31
+1106,Bob,114.29,paid,,2026-10-11
+1107,Alice,452.15,pending,gift wrap,2026-11-07
+1108,Dmitri,546.30,paid,,2026-11-15
+1109,Aya,472.34,paid,refund issued,2026-11-14
+1110,林小满,522.45,paid,refund issued,2026-10-03
+1111,林小满,,pending,gift wrap,2026-11-11
+1112,Elena,501.18,pending,,2026-10-07
+1113,Elena,407.83,paid,refund issued,2026-10-10
+1114,Farid,657.10,void,fast ship,2026-11-04
+1115,Dmitri,51.06,pending,,2026-10-21
+1116,Elena,385.33,paid,,2026-10-30
+1117,Dmitri,191.85,paid,refund issued,2026-11-01
+1118,Aya,403.63,paid,,2026-11-14
+1119,Elena,601.70,pending,,2026-10-16
+1120,Farid,-5.86,paid,,2026-11-15
+1008,Farid,777.95,pending,,2026-10-03
+1008,Farid,777.95,pending,,2026-10-03
