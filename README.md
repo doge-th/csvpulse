@@ -104,7 +104,8 @@ csvpulse data.csv --markdown         # 贴进数据质量工单
 配套工具:[toktree](https://github.com/doge-th/toktree)、
 [githotspot](https://github.com/doge-th/githotspot)、
 [todomold](https://github.com/doge-th/todomold)、
-[awakehours](https://github.com/doge-th/awakehours)。
+[awakehours](https://github.com/doge-th/awakehours)、
+[pyverscan](https://github.com/doge-th/pyverscan)。
 
 ## Development
 
