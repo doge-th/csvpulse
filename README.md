@@ -105,7 +105,8 @@ csvpulse data.csv --markdown         # 贴进数据质量工单
 [githotspot](https://github.com/doge-th/githotspot)、
 [todomold](https://github.com/doge-th/todomold)、
 [awakehours](https://github.com/doge-th/awakehours)、
-[pyverscan](https://github.com/doge-th/pyverscan)。
+[pyverscan](https://github.com/doge-th/pyverscan)、
+[commitnotes](https://github.com/doge-th/commitnotes)。
 
 ## Development
 
